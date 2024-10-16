@@ -1,0 +1,15 @@
+
+
+h1{
+    color: white;
+    font-size: 100px;
+  text-shadow: 1.5px 1.5px black;
+  font-family: "tt-nooks", serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+}
+  .sticky-top {
+    box-shadow: 0 2px 5px grey; 
+    z-index: 1030; 
+}
