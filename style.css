@@ -2,14 +2,48 @@
 
 h1{
     color: white;
-    font-size: 100px;
-  text-shadow: 1.5px 1.5px black;
+    font-size: 250px;
+  text-shadow: 4px 4px black;
   font-family: "tt-nooks", serif;
   font-weight: 700;
   font-style: normal;
   text-align: center;
 }
+h2{
+  text-align: center;
+  font-size: 200px;
+  color: white;
+  text-shadow: 3px 3px black;
+  margin-bottom: 50px;
+}
   .sticky-top {
     box-shadow: 0 2px 5px grey; 
     z-index: 1030; 
+}
+.homeBG{
+  background-image: url(imgs/StaduimImg1.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:90vh; 
+  margin: 0;
+}
+
+.earlyBG{
+  background-color: grey;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:90vh; 
+  margin: 0;
+}
+p{
+  color: white;
+  font-size: 27px;
+}
+.words{
+  border-radius: 25px;
+  padding: 15px;
+}
+.his{
+  border-radius: 25px;
+  border: 7px solid grey;
 }
