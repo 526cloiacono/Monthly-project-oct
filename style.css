@@ -11,7 +11,7 @@ h1{
 }
 h2{
   text-align: center;
-  font-size: 200px;
+  font-size: 180px;
   color: white;
   text-shadow: 3px 3px black;
   margin-bottom: 50px;
@@ -56,4 +56,28 @@ h3{
   color: grey;
   text-shadow: 2px 2px black;
   margin-bottom: 30px;
+}
+.card-body{
+  background-color: grey;
+}
+/* .card {
+  max-height: 100%;
+} */
+.card-title{
+  color: black;
+  font-size: 20px;
+}
+span{
+  color: white;
+  background-color: grey;
+  border-radius: 5px;
+}
+span:hover{
+  background-color: black;
+  color: white;
+}
+button{
+  text-align: center;
+  background-color: black;
+  color:white;
 }
